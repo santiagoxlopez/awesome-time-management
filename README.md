@@ -1,4 +1,4 @@
-**Awesome Time Management**
+# Awesome Time Management
 
 A curated list of awesome time management tools, apps, and resources to help you maximize your productivity, enhance focus, and efficiently manage your time.
 
