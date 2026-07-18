@@ -36,6 +36,8 @@ Here's a selection of top [time tracking tools](https://productivity.directory/c
 
 10. **[TimeCamp](https://www.timecamp.com/)** - One of the few tools that offer automatic time tracking based on keywords, which helps in switching between tasks effortlessly.
 
+11. **[Standup Timer](https://ordinarymantrying.com/tools/standup-timer.html)** - Free browser-based timer for daily team standups. Per-person time tracking with visual alerts, no install or login needed.
+
 ---
 
 ## Productivity Blogs
