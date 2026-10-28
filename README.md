@@ -36,6 +36,8 @@ Here's a selection of top [time tracking tools](https://productivity.directory/c
 
 10. **[TimeCamp](https://www.timecamp.com/)** - One of the few tools that offer automatic time tracking based on keywords, which helps in switching between tasks effortlessly.
 
+11. **[Ripple](https://ripplefocus.github.io/en/)** - Free, local-only Android and iOS screen-time blocker that enforces a 15-minute to 2-hour monotonic cooldown before relaxing limits, blocks only YouTube Shorts, Instagram Reels, and WeChat Channels inside messaging apps, and prevents impulsive app removal.
+
 ---
 
 ## Productivity Blogs
